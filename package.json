@@ -1,0 +1,19 @@
+{
+  "name": "appdocker",
+  "version": "1.0.0",
+  "description": "An app to be containerized in Docker",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Docker",
+    "DevOps",
+    "Containerization"
+  ],
+  "author": "Alexander Gutierrez",
+  "license": "ISC",
+  "devDependencies": {
+    "http-status-codes": "^2.3.0"
+  }
+}
